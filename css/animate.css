@@ -1,0 +1,5 @@
+.nav-item:hover .nav-link{
+    transition: 0.3s;
+    color: #0a38ad;
+    border-radius: 10px;
+}
